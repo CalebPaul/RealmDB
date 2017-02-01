@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealmDB</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+</resources>
